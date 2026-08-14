@@ -5,7 +5,7 @@ DeFi yield and APY history for Base L2 protocols
 
 Get the full dataset (500+ rows) on Payhip:
 
-**[https://payhip.com/ManteclawData](https://payhip.com/ManteclawData)** — $7.99
+**[https://payhip.com/Manteclaw](https://payhip.com/Manteclaw)** — $7.99
 
 ---
 Generated: 2026-08-14 | Base L2 Agent Data
